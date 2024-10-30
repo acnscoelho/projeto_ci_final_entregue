@@ -5,6 +5,7 @@ cypress/reports/index.html.json
 cypress/reports/cucumber-json/**
 cypress/results/*
 cypress/reports/*
+cypress/reports/html
 cypress/screenshots/*
 cypress/videos
 .DS_Store
