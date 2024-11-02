@@ -18,7 +18,7 @@ jobs:
       - name: Instalando dependências
         run: yarn
 
-      - name: Instalando Playwright
+      - name: Instalando Cypress
         run: yarn cypress install
 
       - name: Testes E2E (end-to-end)
